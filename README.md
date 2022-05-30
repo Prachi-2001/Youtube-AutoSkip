@@ -18,7 +18,7 @@ Technologies Used
 
 **Installation**
 
-Step 1 : Download the Extension folder by clicking here [Youtube-AutoSkipZip](C:\Users\HP\Downloads\SocialMediaBlocker-ChromeEXT-dcb9999271ed5fa9238a0e3ce25f1eac3570036d.zip)
+Step 1 : Download the Extension folder by downloading Zip from "code" you can see on this repository or another method is just clone the repo in your local machine.
 
 Step 2 : Go to your chrome settings and click on "Extension" You can see it in aside bar.
 
