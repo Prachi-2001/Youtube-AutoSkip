@@ -11,21 +11,26 @@ Technologies Used
 - Javascript Web API's
 - Manifest version 3 (Configuring others file with Extension)
 - JSON (Providing data)
+- Javascript
 
 
-**More features can be added in future. **
+**More features can be added in future.**
 
-**Installation **
+**Installation**
 
 Step 1 : Download the Extension folder by clicking here [Youtube-AutoSkipZip](SocialMediaBlocker-ChromeEXT-dcb9999271ed5fa9238a0e3ce25f1eac3570036d.zip )
 
 Step 2 : Go to your chrome settings and click on "Extension" You can see it in aside bar.
 
-Step 3 : Do "Developer mode" you can see in right upper corner. 
+Step 3 : Keep "Developer mode" on you can see in right upper corner. 
 
-Step 4 : Click on Load Unpacked and select Youtube-AutoSkip extension folder not a zip folder.
+Step 4 : Click on Load Unpacked and select Youtube-AutoSkip extension folder( not a zip folder) it will load automatically in your chrome extensions. you can see below how it looks like.
 
-**Congrats you done !!!**
+<img width="296" alt="image" src="https://user-images.githubusercontent.com/92040884/170962688-679381a1-ac24-4e2c-8fe2-74ae44dd9cc2.png">
+
+
+
+**Congrats you done successfully !!!**
 
 
          
