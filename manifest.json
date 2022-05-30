@@ -1,0 +1,35 @@
+{
+  "name": "Youtube AutoSkip",
+  "manifest_version": 3,
+  "description": "YouTube AutoSkip is an extension that auto skips ads after YouTube provides a skip ad button. It does not block an ad. so you don't have to take effort of clicking skip-ad button",
+  "version": "0.0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.youtube.com/*",
+        "<all_urls>"
+      ],
+      "css": [],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "48": "./icons/logo_48x48.png",
+    "128": "./icons/logo_128x128.png"
+  },
+  "action": {
+    "icons": {
+      "48": "./icons/logo_48x48.png",
+      "128": "./icons/logo_16x16.png"
+    },
+    "default_title": "Youtube AutoSkip with SM blocker"
+  }
+}
